@@ -9,7 +9,14 @@
 	"compatibility_date": "2025-11-13",
 	"observability": {
 		"enabled": true
-	}
+	},
+	"d1_databases": [
+		{
+			"binding": "kuntips_db",
+			"database_name": "kuntips_db",
+			"database_id": "18a64154-3bf5-4fc6-ad41-daaefd800f2d"
+		}
+	]
 	/**
 	 * Smart Placement
 	 * Docs: https://developers.cloudflare.com/workers/configuration/smart-placement/#smart-placement
