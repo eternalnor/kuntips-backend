@@ -165,3 +165,7 @@ dist
 .env*
 !.env.example
 .wrangler/
+.dev.vars*
+
+# macOS
+.DS_Store
